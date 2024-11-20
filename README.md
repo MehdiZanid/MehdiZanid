@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there 👋 My name is Mehdi Zanid, i am from Holland Fontys university in Eindhoven. Doing a bacelor in IT.
+
+- 🌱 I’m currently learning/exploring all that software engineering and infrastructure has to offer. 
+- 🔭 I’m currently working on improving my basic skill and knowledge to have a good base to build on.
 
 <!--
 **MehdiZanid/MehdiZanid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
