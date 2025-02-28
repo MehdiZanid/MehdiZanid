@@ -1,4 +1,4 @@
-## Hi there 👋 My name is Mehdi Zanid, i am from Holland Fontys university in Eindhoven. Doing a bacelor in IT.
+## Hi there 👋 My name is Mehdi Zanid from Holland.Studying at Fontys university in Eindhoven, Doing a bacelor in IT.
 
 - 🌱 I’m currently learning/exploring all that software engineering and infrastructure has to offer. 
 - 🔭 I’m currently working on improving my basic skill and knowledge to have a good base to build on.
